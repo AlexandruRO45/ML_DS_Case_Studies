@@ -1,0 +1,19 @@
+configuration,cluster_size,silhouette_score,v_measure_score
+"Res: 0.9, Mod: Dugue, FT: pca",2,0.29075757,0.25954926444612303
+"Res: 0.9, Mod: Newman, FT: pca",3,0.24667534,0.27014040821915536
+"Res: 0.9, Mod: Potts, FT: pca",8,0.20891869,0.2482364714825861
+"Res: 0.9, Mod: Dugue, FT: umap",2,0.29075757,0.25954926444612303
+"Res: 0.9, Mod: Newman, FT: umap",3,0.24667534,0.27014040821915536
+"Res: 0.9, Mod: Potts, FT: umap",8,0.20891869,0.2482364714825861
+"Res: 1, Mod: Dugue, FT: pca",5,0.04175207,0.2619044238843777
+"Res: 1, Mod: Newman, FT: pca",8,-0.022387171,0.31254737302659025
+"Res: 1, Mod: Potts, FT: pca",10,0.1793222,0.27753026956054117
+"Res: 1, Mod: Dugue, FT: umap",5,0.04175207,0.2619044238843777
+"Res: 1, Mod: Newman, FT: umap",8,-0.022387171,0.31254737302659025
+"Res: 1, Mod: Potts, FT: umap",10,0.1793222,0.27753026956054117
+"Res: 0.8, Mod: Dugue, FT: pca",2,0.30829057,0.24756598121980627
+"Res: 0.8, Mod: Newman, FT: pca",2,0.30312178,0.24682036851447337
+"Res: 0.8, Mod: Potts, FT: pca",7,0.2337112,0.20895766497005702
+"Res: 0.8, Mod: Dugue, FT: umap",2,0.30829057,0.24756598121980627
+"Res: 0.8, Mod: Newman, FT: umap",2,0.30312178,0.24682036851447337
+"Res: 0.8, Mod: Potts, FT: umap",7,0.2337112,0.20895766497005702
